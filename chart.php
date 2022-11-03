@@ -1,6 +1,6 @@
 <?php
 //DB Connection
-$con = mysqli_connect('localhost','camsidrb_gchart','StTBgH15C2Ug','camsidrb_gchart');
+$con = mysqli_connect('localhost','root','','gchart');
    
     $table = array();
       $table['cols'] = array(

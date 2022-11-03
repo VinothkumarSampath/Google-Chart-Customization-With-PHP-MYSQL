@@ -1,2 +1,2 @@
 # Google-Chart-Customization-With-PHP-MYSQL
-Google Chart Customization With PHP &amp; MYSQL
+Google Charts in PHP with MySQL Database using Google API
